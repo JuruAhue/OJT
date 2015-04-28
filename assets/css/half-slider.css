@@ -6,8 +6,6 @@
 
 html,
 
-.navbar-header {
-    font-family: Cooper Black;
 }
 
 .dropdown-toggle {
@@ -47,6 +45,7 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+
 
 footer {
     margin: 0px 0;
