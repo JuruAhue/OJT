@@ -30,21 +30,20 @@ html,
 
 
 .navbar-header {
-    font-family: Aharoni;
+   font-family: 'Roboto', sans-serif;
     
 }
 
 .dropdown-toggle {
-    font-family: Aharoni;
+   font-family: 'Roboto', sans-serif;
     color: #fff;
 }
 
 #bs-example-navbar-collapse-1 {
-    font-family: Aharoni;
-    font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+    font-size: 25px;
     color: ;
 }
-
 body {
     height: 100%;
 }
