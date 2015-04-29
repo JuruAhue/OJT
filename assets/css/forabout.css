@@ -51,6 +51,27 @@ a {
     transition: all .2s ease-in-out;
 }
 
+.navbar {
+    border-radius: 0px;
+    background-color: #45d742;
+    color: #fff;
+
+}
+
+.navbar-header {
+    color: #45d742;
+}
+#home {
+    color: #fff;
+}
+
+#links a:hover {
+    
+   background-color: #fff;
+
+    color: #45d742;
+
+}
 a:hover,
 a:focus {
     text-decoration: none;
@@ -314,6 +335,9 @@ ul.banner-social-buttons {
 }
 
 footer {
+    
+    margin: 0px 0;
+
     padding: 50px 0;
 }
 
@@ -343,4 +367,19 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+.navbar-header {
+    font-family: Aharoni;
+    
+}
+
+.dropdown-toggle {
+    font-family: Aharoni;
+    color: #fff;
+}
+
+#bs-example-navbar-collapse-1 {
+    font-family: Aharoni;
+    font-size: 30px;
+    color: ;
 }

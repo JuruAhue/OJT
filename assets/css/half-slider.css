@@ -5,17 +5,44 @@
  */
 
 html,
+.navbar {
+    border-radius: 0px;
+    background-color: #38cc4d;
+    color: #fff;
 
+}
+
+.navbar-header {
+    color: #45d742;
+}
+#home {
+    color: #fff;
+}
+
+#links a:hover {
+    
+   background-color: #fff;
+
+    color: #45d742;
+
+}
+
+
+
+.navbar-header {
+   font-family: 'Roboto', sans-serif;
+    
 }
 
 .dropdown-toggle {
-    font-family: Cooper Black;
+   font-family: 'Roboto', sans-serif;
+    color: #fff;
 }
 
 #bs-example-navbar-collapse-1 {
-    font-family: Cooper Black;
-    font-size: 17px;
-
+  font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: ;
 }
 
 body {
@@ -45,7 +72,6 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
-
 
 footer {
     margin: 0px 0;
